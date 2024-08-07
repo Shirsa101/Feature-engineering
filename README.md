@@ -1,1 +1,1 @@
-# Feature-engineering
+Here, I have performed feature engineering on data from a European bank. Feature engineering is the process of using practical, statistical and data science knowledge to select, transform, and extract characteristics, properties and attributes from raw data.
